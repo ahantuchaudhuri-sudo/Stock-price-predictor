@@ -1,0 +1,5 @@
+stock-price-predictor/
+│── README.md
+│── requirements.txt
+│── stock_price_predictor.ipynb
+│── stock_price_predictor.py
